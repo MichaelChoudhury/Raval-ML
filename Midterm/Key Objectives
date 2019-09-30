@@ -1,0 +1,9 @@
+KEY OBJECTIVES OF THE MIDTERM PROJECT
+Build a machine learning model for trading stocks and shares using simple techniques to create a compelling and interactive web dashboard
+Leverage the Flask web framework for rapid prototyping of the Python model and ideas
+Create dynamic content powered by regression coefficients, logistic regressions, and gradient boosting machines
+Harness the power of TensorFlow by exporting saved models into web applications
+Create rich web dashboards to handle complex real-time user input with JavaScript and Ajax to yield interactive and tailored content
+Create dashboards with PayPal donation paywall to acceept funds
+Build an intuitive and useful site to add value to users and entice them to keep coming back
+Take the idea all the way to the customer's plate using the top serverless cloud pythonanywhere
