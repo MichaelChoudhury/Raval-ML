@@ -1,5 +1,7 @@
 KEY OBJECTIVES OF THE MIDTERM PROJECT
 
+Link to live web app:    http://michaelchoudhury.pythonanywhere.com/
+
 Build a machine learning model for trading stocks and shares using simple techniques to create a compelling and interactive web dashboard
 Leverage the Flask web framework for rapid prototyping of the Python model and ideas
 Create dynamic content powered by regression coefficients, logistic regressions, and gradient boosting machines
