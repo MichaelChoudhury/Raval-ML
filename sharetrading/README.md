@@ -7,6 +7,8 @@
  ![Tux, the Linux mascot](mobile_app_share_trading_screenshot.jpg)
  
  
+ <br>
+ <br>
  
  ## The Android APK file "sharetrading.apk" is included in this repository.
  
